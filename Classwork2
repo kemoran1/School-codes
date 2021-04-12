@@ -1,0 +1,18 @@
+public class HelloWorld {
+
+   public static void main(String[] args) {
+
+      int hour=2;
+	  int minute=44;
+	  
+	  system.out.print("the current time is ")
+	  system.out.print(hour);
+	  
+	  system.out.print(":")
+	  system.out.print(minute)
+	  
+	  system.out.print(".")
+
+   }
+
+}
